@@ -71,3 +71,8 @@ Choose output format (Markdown or Plain Text).
 Click "Generate Documentation" to preview the man page.
 
 Click "Save to File" to export the documentation.
+
+
+![Screenshot from 2025-03-28 11-27-18](https://github.com/user-attachments/assets/1e1630da-3758-41ed-9e8e-cdb601a2fc11)
+
+
